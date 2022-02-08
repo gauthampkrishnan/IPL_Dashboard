@@ -14,11 +14,11 @@ https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 
 ### Team Page
 
-![Team Page Page](/README/team-page.jpg)
+
 
 ### Matches Page
 
-![Matches Page](/README/matches-page.jpg)
+
 
 ## Technologies
 

@@ -6,19 +6,6 @@ This is a companion project for the Java Brains course on Full Stack Development
 
 Check out the playlist below to see this app built end-to-end from scratch.
 
-
-
-
-## Screenshots
-
-### Team Page
-
-
-
-### Matches Page
-
-
-
 ## Technologies
 
 * Spring Boot
